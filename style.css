@@ -260,24 +260,11 @@ h3{
     font-family: impact;
     color: wheat; 
 }
-.container{
-    background: #dde1e7;
-    padding: 25px;
-    border-radius: 3px;
-    box-shadow: -3px -3px 7px #ffffff73,
-                3px 3px 5px rgba(94, 104, 121,0.288);
-}
-.button{
-    width: 10% auto;
-    height: 30px;
-    text-align: center;
-    margin-bottom: 10px;
-    font-family: Impact, sans-serif;
-    font-size: 15px;
-    border: 1px solid #9fa5b5;
-    letter-spacing: 1px;
-    border-radius: 5px;
-    background-color: #363a43;
-    color: white;
-    transition: 1s all;
-}
+ a{
+     color: blueviolet;
+     text-decoration: none;
+     cursor: pointer;
+ }
+
+  
+ 
